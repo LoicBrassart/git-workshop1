@@ -1,1 +1,1 @@
-# git-workshop1
+# git-workshop1 (by Loic and his lawful followers !)
